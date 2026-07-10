@@ -1,4 +1,8 @@
 # Hospital-Emergency-Room-Dashboard
+
+## 🔎 Keywords
+powerbi, data-analysis, healthcare-analytics, dashboard, dax
+
 ## 📊 Project Overview
 This Power BI dashboard provides a comprehensive, data-driven analysis of an Emergency Room's operations over 19 months (April 2023 - October 2024), tracking over 9,216 unique patient records[cite: 1]. The project focuses on measuring operational efficiency, identifying wait-time bottlenecks, understanding patient demographics, and optimizing hospital resource allocation[cite: 1].
 
