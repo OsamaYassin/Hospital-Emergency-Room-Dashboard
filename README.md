@@ -3,26 +3,14 @@
 This Power BI dashboard provides a comprehensive, data-driven analysis of an Emergency Room's operations over 19 months (April 2023 - October 2024), tracking over 9,216 unique patient records. The project focuses on measuring operational efficiency, identifying wait-time bottlenecks, understanding patient demographics, and optimizing hospital resource allocation.
 
 ## 🖥️ Dashboard Preview
+<ul>
+  <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0001.jpg" target="_blank">📄 View Page 1: Hospital ER Dashboard - Monthly View</a></li>
+  <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0002.jpg" target="_blank">📄 View Page 2: Hospital ER Dashboard - Consolidated View</a></li>
+  <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0003.jpg" target="_blank">📄 View Page 3: Hospital ER Dashboard - Patient Details</a></li>
+</ul>
+
 ![Hospital ER Dashboard](https://github.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Dashbord_page-0002.jpg?raw=true)
-## 🖥️ Dashboard Preview
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0001.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0001.jpg" alt="Hospital ER Dashboard - Monthly View" width="800" style="max-width:100%;">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0002.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0002.jpg" alt="Hospital ER Dashboard - Consolidated View" width="800" style="max-width:100%;">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0003.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0003.jpg" alt="Hospital ER Dashboard - Patient Details" width="800" style="max-width:100%;">
-  </a>
-</p>
+ 
 
 ## 🚀 Key Insights
 * **Wait Time Bottlenecks:** **59.31%** of the patients missed the target wait time threshold, with an overall average wait time of **35.3 minutes**. This indicates a critical need to restructure the triage workflow.
