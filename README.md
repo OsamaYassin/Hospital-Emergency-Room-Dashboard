@@ -19,9 +19,9 @@ This Power BI dashboard provides a comprehensive, data-driven analysis of an Eme
 4. **Deploy Winter Surge Staffing:** Add temporary capacity and front-desk administrative support from November through February to counter seasonal satisfaction score drops.
 
 ## 🛠️ Tools & Tech Stack
-* **Power BI Desktop:** Dashboard design, interactive visualizations, and canvas layout[cite: 1].
+* **Power BI Desktop:** Dashboard design, interactive visualizations, and canvas layout .
 * **DAX (Data Analysis Expressions):** Calculated measures for average wait times, patient satisfaction trends, and conditional formatting rules[cite: 1].
-* **Power Query:** Data cleaning, type transformation, and structural modeling[cite: 1].
+* **Power Query:** Data cleaning, type transformation, and structural modeling .
 
 ---
-*Developed by Oussama Yasseen*[cite: 1]
+*Developed by Oussama Yasseen* .
