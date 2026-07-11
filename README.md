@@ -6,7 +6,7 @@ This Power BI dashboard provides a comprehensive, data-driven analysis of an Eme
 <ul>
   <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0001.jpg" target="_blank">📄 View Page 1: Hospital ER Dashboard - Monthly View</a></li>
   <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0002.jpg" target="_blank">📄 View Page 2: Hospital ER Dashboard - Consolidated View</a></li>
-  <li><a href="https://raw.githubusercontent.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/main/Hospital%20Dashbord_page-0003.jpg" target="_blank">📄 View Page 3: Hospital ER Dashboard - Patient Details</a></li>
+ 
 </ul>
 
 ![Hospital ER Dashboard](https://github.com/OsamaYassin/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Dashbord_page-0002.jpg?raw=true)
