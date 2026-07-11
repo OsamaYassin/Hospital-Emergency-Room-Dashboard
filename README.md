@@ -20,7 +20,7 @@ This Power BI dashboard provides a comprehensive, data-driven analysis of an Eme
 
 ## 🛠️ Tools & Tech Stack
 * **Power BI Desktop:** Dashboard design, interactive visualizations, and canvas layout .
-* **DAX (Data Analysis Expressions):** Calculated measures for average wait times, patient satisfaction trends, and conditional formatting rules[cite: 1].
+* **DAX (Data Analysis Expressions):** Calculated measures for average wait times, patient satisfaction trends, and conditional formatting rules.
 * **Power Query:** Data cleaning, type transformation, and structural modeling .
 
 ---
